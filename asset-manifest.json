@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coursework-zerop/static/css/main.7e4bfa12.css",
-    "main.js": "/coursework-zerop/static/js/main.e8b5b3ce.js",
+    "main.js": "/coursework-zerop/static/js/main.33367de0.js",
     "static/js/453.ed3810f9.chunk.js": "/coursework-zerop/static/js/453.ed3810f9.chunk.js",
     "static/media/middle__sausage.svg": "/coursework-zerop/static/media/middle__sausage.32adb1e9c447921849c0.svg",
     "static/media/TildaSans-Light.woff2": "/coursework-zerop/static/media/TildaSans-Light.9df27024da31c1e64a58.woff2",
@@ -13,11 +13,11 @@
     "static/media/Ellipse__blue.svg": "/coursework-zerop/static/media/Ellipse__blue.8363c5e731c0f7f8c8b0.svg",
     "static/media/Ellipse__pink.svg": "/coursework-zerop/static/media/Ellipse__pink.e95e3f20d1865dcdff2f.svg",
     "main.7e4bfa12.css.map": "/coursework-zerop/static/css/main.7e4bfa12.css.map",
-    "main.e8b5b3ce.js.map": "/coursework-zerop/static/js/main.e8b5b3ce.js.map",
+    "main.33367de0.js.map": "/coursework-zerop/static/js/main.33367de0.js.map",
     "453.ed3810f9.chunk.js.map": "/coursework-zerop/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e4bfa12.css",
-    "static/js/main.e8b5b3ce.js"
+    "static/js/main.33367de0.js"
   ]
 }
